@@ -1,0 +1,2 @@
+defmodule LifeGame do
+end
